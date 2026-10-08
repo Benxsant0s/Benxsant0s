@@ -1,32 +1,4 @@
-<div align="center">
 
-```text
-+======================================================================+
-|                   DATA ANALYST  //  IDENTITY CARD                    |
-+======================================================================+
-|                                                                      |
-| NAME      : Benedict                                                 |
-| ROLE      : Aspiring Data Analyst                                    |
-| STUDYING  : Computer Science / Information Systems                   |
-| FOCUS     : Data Analysis | Visualisation | SQL | Python             |
-| STATUS    : [##########--------]  Building. Learning. Shipping.      |
-|                                                                      |
-+----------------------------------------------------------------------+
-| TOOLKIT                                                              |
-|                                                                      |
-| Python ........ ##########  Pandas, NumPy, Matplotlib                |
-| SQL ........... #########.  Querying, joins, aggregation             |
-| Power BI ...... ########..  Dashboards & reporting                   |
-| Excel ......... ########..  Analysis & data cleaning                 |
-| C++ ........... ######....  Programming fundamentals                 |
-| Git/GitHub .... ########..  Version control & collaboration          |
-|                                                                      |
-+----------------------------------------------------------------------+
-| MISSION: Turn raw data into clear, actionable insight.               |
-+======================================================================+
-```
-
-</div>
 
 # 👋 About Me
 
